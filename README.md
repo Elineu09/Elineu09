@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Elineu09
-- 👀 I’m interested in computing, hacking and...
+- 👀 I’m interested in computing, hacking, playing guittar and basketball.
 - 🌱 I’m currently learning how to programme and be an ethical hacker.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on several projects with different people, in order to exchange expirience and develop my software and social skills, and allways get the best of me
+- and also so help several people.
 - 📫 How to reach me: elineutomas4@gmail.com 
 
 <!---
